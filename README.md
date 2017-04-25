@@ -32,7 +32,7 @@ Next install the minimalist Vim plugin manager [vim-plug](https://github.com/jun
     curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
-Add the sections _Example_ and _On-demand loading of plugins_ and the _Post-update hooks_
+Add all tree sections _Example_ and _On-demand loading of plugins_ and the _Post-update hooks_
 from [vim-plug](https://github.com/junegunn/vim-plug) for _Valloric/YouCompleteMe_ to your `~/.vimrc`.
 
 Start `/usr/local/bin/vim` and type
