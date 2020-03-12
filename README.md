@@ -11,7 +11,7 @@ everything.
 
 First, install
 
-    sudo apt-get install build-essential cmake python-dev python3-dev
+    sudo apt-get install build-essential cmake python-dev python3-dev libncurses5-dev libncursesw5-dev
 
 Then install vim from source:
 
