@@ -1,6 +1,6 @@
 
 
-# How to install YouCompleteMe and vim version 8 on Ubuntu 14 and 16 using vim-plug
+# How to install YouCompleteMe and vim version 8 on Debian 10 (proxmox), Ubuntu 14, 16 and 18 using vim-plug
 
 YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for
 Vim available from [vimawesome.com](http://vimawesome.com/plugin/youcompleteme)
